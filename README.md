@@ -12,4 +12,4 @@ All the copyrights of Pokemons picture belong to the Pokemon Company. This is a 
 http://spring2016.yuanjiexie.com/pokeout.html
 
 
-https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/pokeout.gif
+![](https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/pokeout.gif)
