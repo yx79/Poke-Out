@@ -7,9 +7,14 @@ I have studied and applied iOS built-in framework SpriteKit, which is a 2D game 
 
 I am also a 26-level PokémonGo trainer :).
 
-All the copyrights of Pokemons picture belong to the Pokemon Company. This is a non-profit exercise app.
 
 http://spring2016.yuanjiexie.com/pokeout.html
 
 
 ![](https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/pokeout.gif)
+
+
+
+All the copyrights of Pokemons picture belong to the Pokemon Company. This is a non-profit exercise app.
+
+
